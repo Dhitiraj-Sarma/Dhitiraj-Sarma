@@ -20,18 +20,3 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
-
-<!-- Dynamic Stats Section -->
-## 📊 GitHub Stats
-<div align="center">
-  <!-- GitHub Readme Stats Card (using a theme such as tokyonight) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhitiraj-Sarma&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br/><br/>
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhitiraj-Sarma&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
-
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhitiraj-Sarma&style=flat-square" alt="Visitor Count"/>
-</div>
