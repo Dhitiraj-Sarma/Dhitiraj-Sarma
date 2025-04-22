@@ -7,7 +7,7 @@
 
 <!-- About Me Section -->
 ## 💻 About Me
-- 🔭 I’m currently trying to build a **Contact Management System**
+- 🔭 I’m currently trying to build a **Learning Management System**
 - 🌱 I’m currently learning **ReactJS**, **NodeJS**, **SQL**, and **MongoDB**
 - 💬 Ask me about anything related to full-stack development!
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/dhitiraj-sarma-a349052aa) | Email: [dhitirajsarma66@gmail.com](mailto:dhitirajsarma66@gmail.com)
