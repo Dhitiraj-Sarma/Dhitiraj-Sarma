@@ -10,7 +10,7 @@
 - 🔭 I’m currently trying to build a **Learning Management System**
 - 🌱 I’m currently learning **ReactJS**, **NodeJS**, **SQL**, and **MongoDB**
 - 💬 Ask me about anything related to full-stack development!
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/dhitiraj-sarma) | Email: [dhitirajsarma66@gmail.com](mailto:dhitirajsarma66@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dhitiraj-sarma) | Email: [dhitirajsarma66@gmail.com](mailto:dhitirajsarma66@gmail.com)
 
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
